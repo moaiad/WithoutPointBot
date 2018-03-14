@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/خالي/TelegramBots-master/telegrambots-abilities/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/خالي/TelegramBots-master/telegrambots-abilities/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/خالي/TelegramBots-master/telegrambots-extensions/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/خالي/TelegramBots-master/telegrambots-meta/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/خالي/TelegramBots-master/telegrambots-meta/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/خالي/TelegramBots-master/telegrambots/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/خالي/TelegramBots-master/telegrambots/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
